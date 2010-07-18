@@ -1,5 +1,8 @@
 Revision history for Perl extension MooseX::Net::API
 
+0.12
+        - MooseX::Net::API is now deprecated (renamed to Net::HTTP::API)
+
 0.11    Thu June  3 2010
         - http-console : REST shell to make request
         - move most of the code to Roles
